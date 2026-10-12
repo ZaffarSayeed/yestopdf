@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/api/(.*)","destination":"https://YOUR-BACKEND.example/api/$1"},{"source":"/(.*)","destination":"/index.html"}]}

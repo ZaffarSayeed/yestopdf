@@ -1,0 +1,10 @@
+{
+  "description": "Offers a comprehensive suite of online PDF tools for easy file conversion, compression, editing, and management tailored for professionals and students.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
